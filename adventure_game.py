@@ -51,6 +51,8 @@ def left_path():
         print("Invalid choice. Please type 'swim' or 'bridge'.")
         left_path()
 
+        #Add more options here
+
 
 def right_path():
     print("You chose to go right.")
